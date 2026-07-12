@@ -1,7 +1,7 @@
 {
   "id": "obsidian-sync",
   "name": "ACTG Sync",
-  "version": "0.15.0",
+  "version": "0.16.0",
   "minAppVersion": "1.5.0",
   "description": "Synchronisiert diesen Vault mit eurem eigenen Sync-Server (kein Cloud-Dienst) und bringt einen eigenen Vorlagen-Motor mit.",
   "author": "actg.dev",
